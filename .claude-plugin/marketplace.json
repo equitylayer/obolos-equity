@@ -1,0 +1,28 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "obolos-equity",
+  "owner": {
+    "name": "Obolos Group Incorporated",
+    "email": "legal@obolos.io",
+    "url": "https://obolos.io"
+  },
+  "description": "obolos plugins for Claude Code",
+  "plugins": [
+    {
+      "name": "obolos",
+      "source": "./plugins/obolos",
+      "displayName": "obolos equity",
+      "description": "Incorporate a Delaware company and run it on obolos: cap table, share issuance, SAFEs, fundraising rounds and data rooms, through the obolos connector, the CLI and @obolos/sdk.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/equitylayer/obolos-equity",
+      "keywords": [
+        "obolos",
+        "equity",
+        "cap-table",
+        "fundraising",
+        "incorporation"
+      ],
+      "category": "productivity"
+    }
+  ]
+}

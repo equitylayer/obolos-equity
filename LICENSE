@@ -1,0 +1,149 @@
+obolos Source Available License 1.0
+===================================
+
+Licensor: Obolos Group Incorporated
+
+Software: the software the Licensor distributes with this license, including
+the obolos protocol contracts and circuits, the prover, the SDK, the CLI, the
+indexer, the backend and the web application, each version separately
+
+Other licenses: legal@obolos.io
+
+1. Acceptance. By using the Software you agree to these terms as conditions of
+every license they grant. If you do not agree, you have no license.
+
+2. What you may do.
+
+  (a) Non-Production Use. You may copy, modify, create derivative works of, and
+      distribute the Software for Non-Production Use.
+
+  (b) Use with Authorised Deployments. You may use, modify and combine with
+      your own software the SDK, the CLI, the interface definitions and the
+      documentation in Production Use to interact with Authorised Deployments,
+      including to build and operate your own products that interact with
+      Authorised Deployments, and to submit to Authorised Deployments proofs
+      and attestations that the Licensor's Services produce.
+
+  (c) Conditions. Every copy or derivative work you distribute must carry this
+      license, the Licensor's copyright notice and any Required Notice, and
+      must identify the changes you made. You may not remove or obscure a
+      notice or any licensee identification in the Software. A product built
+      under section 2(b) may include the SDK and the interface definitions in
+      compiled or bundled form without identifying changes, provided the
+      notices in the Software's own files are kept.
+
+  (d) Licensor's Services. These terms grant no right to use the Licensor's
+      Services. Their use is governed by the separate terms under which the
+      Licensor provides them.
+
+3. What you may not do. Without a separate written license from the Licensor,
+you may not:
+
+  (a) deploy the protocol contracts, or any derivative work or compiled form of
+      them, to any network, or operate such a deployment, other than as an
+      Authorised Deployment or as Non-Production Use;
+
+  (b) use the Software, its interface definitions, ABIs, schemas or
+      documentation to deploy, operate or interact with any implementation or
+      redeployment of the protocol that is not an Authorised Deployment, other
+      than as Non-Production Use;
+
+  (c) make Production Use of the Software or any derivative work except as
+      section 2(b) allows;
+
+  (d) use the Software or any derivative work to provide a Competing Product;
+
+  (e) sublicense or transfer your licenses;
+
+  (f) run the circuits, the prover, or the credential, attestation or escrow
+      components of the Software, or any derivative work or compiled form of
+      them, in Production Use, or provide proving, attestation or any other
+      functionality of the Software to third parties as a service.
+
+4. Patents. The Licensor grants you a license under the patent claims it can
+license that your permitted use of the Software would otherwise infringe, for
+that permitted use only. If you or your company make a written claim that the
+Software, or a product or service of the Licensor that uses it, infringes a
+patent, your patent license ends immediately.
+
+5. Contributions. If you submit changes or new works to the Licensor, you grant
+the Licensor a perpetual, irrevocable, worldwide, royalty-free, sublicensable
+license, including under any patent claims you can license, to use, modify,
+distribute and relicense them under any terms, and you confirm that you have
+the right to grant it.
+
+6. Third-party components. Third-party components included with the Software
+remain under their own licenses, which are identified in the Software. These
+terms do not apply to them and do not limit the rights those licenses give you.
+
+7. No trademark rights. These terms grant no right to use the name obolos or
+any other name, mark or logo of the Licensor, except to describe the origin of
+the Software accurately.
+
+8. Term and termination. Your licenses continue for as long as you comply with
+these terms and do not expire or convert to any other license. They end
+automatically if you violate these terms. The first time the Licensor notifies
+you in writing of a violation, your licenses continue if you cure it within 30
+days of the notice, except that a violation of section 3(a), 3(b) or 3(d) ends
+your licenses for every current and later version of the Software immediately.
+Termination of your licenses does not end the licenses of people who received
+the Software from you in compliance with these terms.
+
+9. Versions and other rights. This license applies separately to each version
+of the Software. The Licensor may offer later versions under different terms
+and may grant anyone other licenses. All rights not expressly granted are
+reserved. Nothing in these terms limits rights you have under applicable law
+that cannot be limited by contract, including fair use, and where the law does
+not allow these terms to restrict the use of interface information to achieve
+the interoperability of an independently created program, they do not restrict
+it. If any term is unenforceable, the rest remain in force. This is not an
+open-source license.
+
+10. No warranty and no liability. The Software is provided as is, without
+warranty of any kind, express or implied, including merchantability, fitness
+for a particular purpose, title and non-infringement. To the extent the law
+allows, the Licensor is not liable for any damages arising out of these terms
+or your use of the Software, under any legal theory.
+
+11. Definitions.
+
+  (a) "Authorised Deployment" means an instance of the protocol contracts
+      deployed by the Licensor, or by another person with the Licensor's
+      written authorisation, at the addresses the Licensor publishes, including
+      in the SDK's address configuration, together with every contract created,
+      directly or indirectly, by such an instance.
+
+  (b) "Non-Production Use" means use for evaluation, development, testing,
+      security research, audit or education that, if it runs on a network, runs
+      only on a local, test or development network, does not create, record or
+      transfer rights, obligations or value for any person, and does not
+      provide the Software's functionality to third parties as a product or
+      service. Any other use is "Production Use".
+
+  (c) "Competing Product" means a product or service, whether or not offered
+      for a fee, that provides functionality substantially similar to the
+      Software or to a product or service that the Licensor or one of its
+      affiliates provides using the Software, regardless of interface,
+      platform, network or programming language. A product that provides its
+      functionality through Authorised Deployments is not a Competing Product.
+
+  (d) "You" means the person or entity agreeing to these terms, and "your
+      company" means every organisation you work for and every organisation
+      that controls, is controlled by, or is under common control with it.
+
+  (e) An "affiliate" of the Licensor is any organisation that controls, is
+      controlled by, or is under common control with it. Control means the
+      power to direct an organisation's management and policies, by ownership,
+      vote, contract or otherwise.
+
+  (f) "Distribute" includes making the Software, or any part of it, available
+      to third parties by any means.
+
+  (g) "Licensor's Services" means the services the Licensor, or another person
+      with the Licensor's written authorisation, operates using the Software,
+      including proving, identity and attestation, indexing, application
+      programming interfaces and the web application.
+
+Required Notice: Copyright (c) 2026 Obolos Group Incorporated. Licensed under
+the obolos Source Available License 1.0, https://obolos.io/license.
+Commercial licenses: legal@obolos.io.

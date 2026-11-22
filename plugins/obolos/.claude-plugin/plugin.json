@@ -1,0 +1,20 @@
+{
+  "name": "obolos",
+  "description": "Incorporate a Delaware company and run it on obolos: cap table, share issuance, SAFEs, fundraising rounds and data rooms. The connector answers about your companies, holdings, rounds, data rooms and messages; the skill drives the obolos CLI and @obolos/sdk to issue shares and run rounds.",
+  "version": "1.12.3",
+  "author": {
+    "name": "Obolos Group Incorporated",
+    "url": "https://obolos.io"
+  },
+  "homepage": "https://github.com/equitylayer/obolos-equity",
+  "repository": "https://github.com/equitylayer/obolos-equity",
+  "license": "SEE LICENSE IN LICENSE",
+  "privacyPolicyUrl": "https://obolos.io/privacy",
+  "keywords": [
+    "obolos",
+    "equity",
+    "cap-table",
+    "fundraising",
+    "incorporation"
+  ]
+}

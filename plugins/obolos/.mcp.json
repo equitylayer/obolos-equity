@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "obolos": {
+      "type": "http",
+      "url": "https://api.obolos.io/mcp"
+    }
+  }
+}

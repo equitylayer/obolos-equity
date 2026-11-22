@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.obolos/obolos",
+  "title": "obolos",
+  "description": "Incorporate a Delaware company and run it on obolos: cap table, issuance, SAFEs and rounds.",
+  "repository": {
+    "url": "https://github.com/equitylayer/obolos-equity",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.obolos.io/mcp"
+    }
+  ]
+}
